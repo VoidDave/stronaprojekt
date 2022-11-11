@@ -1,0 +1,86 @@
+#naglowek{
+    background-color: black;
+    color: white;
+    height: 120px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+#lewy1{
+    background-color: #dddddd;
+    color: white;
+    width: 30%;
+    height: 100px;
+    float: left;
+}
+
+#lewy2{
+    background-color: #c4c4c4;
+    color: white;
+    width: 30%;
+    height: 100px;
+    float: left;
+}
+
+#lewy3{
+    background-color: #b6b5b5;
+    color: white;
+    width: 30%;
+    height: 100px;
+    float: left;
+}
+
+#srodek1{
+    background-color: #c4c4c4;
+    color: white;
+    width: 40%;
+    height: 75px;
+    float: right;
+}
+
+#srodek2{
+    background-color: #d4d4d4;
+    color: white;
+    width: 40%;
+    height: 75px;
+    float: right;
+}
+
+#srodek3{
+    background-color: #f0ecec;
+    color: white;
+    width: 40%;
+    height: 75px;
+    float: right;
+}
+
+#srodek4{
+    background-color: #ffffff;
+    color: black;
+    width: 40%;
+    height: 75px;
+    float: right;
+}
+
+#prawy1{
+    background-color: rgb(128, 128, 128);
+    color: white;
+    width: 30%;
+    height: 150px;
+    float: right;
+}
+
+#prawy2{
+    background-color: rgb(170, 169, 169);
+    color: white;
+    width: 30%;
+    height: 150px;
+    float: right;
+}
+
+#stopka{
+    background-color: black;
+    color: white;
+    height: 150px;
+    clear: both;
+}
