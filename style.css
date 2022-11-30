@@ -1,8 +1,81 @@
-#menu{
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: grey;
+}
+#forgame{
+    float: left;
+    width: 20%;
+    height: 80px;
+    text-align: center;
+    background-color: #3f3b3b;
+}
+#baner{
+    float: left;
+    width: 60%;
+    height: 80px;
+    text-align: center;
+    background-color: #706464;
+}
+#ocennas{
+    float: left;
+    width: 20%;
+    height: 80px;
+    text-align: center;
+    background-color: #3f3b3b;
+}
+#logo{
+    width: 33%;
+    float: left;
+    height: 120px;
+    background-color: blueviolet;
+}
+#glowna{
+    background-color: #000000;
+    color: white;
+    height: 120px;
+    text-align: center;
+    width: 11%;
+    float: left;
+}
+#info{
+    background-color: white;
+    padding: 10px;
+}
+#listagier{
+    background-color: #3f3b3b;
+    color: white;
+    height: 120px;
+    text-align: center;
+    width: 12%;
+    float: left;
+}
+#onas{
     background-color: black;
     color: white;
     height: 120px;
     text-align: center;
-    padding-top: 30px;
-    
+    width: 11%;
+    float: left;
+}
+#pusty{
+    background-color: blueviolet;
+    color: white;
+    height: 120px;
+    text-align: center;
+    width: 33%;
+    float: left;
+}
+#grafikalogo{
+    background-color:  white;
+    height: 80px;
+    width: 200px;
+    margin: auto;
+    text-align: center;
+}
+#szukacz{
+   text-align:center;
+}
+pre{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
 }
