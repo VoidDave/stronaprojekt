@@ -116,13 +116,15 @@ pre{
 #ocenagry{
     width: 40%;
     height: 15%;
-
+    float: left;
 }
 #sklepy{
     width: 40%;
     height: 20%;
+    float: left;
 }
 #guzik{
     width: 20px;
     height: 10%;
+    float: left;
 }
